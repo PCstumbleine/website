@@ -1,5 +1,7 @@
 # website
 
+This is my personal website.
+
 TODO:
 
 - Add LinkedIn Link
